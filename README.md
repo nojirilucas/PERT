@@ -1,5 +1,8 @@
 # PERT
 Desenvolva o código de um programa que seja capaz de calcular: tempos mais cedo, tempos mais tarde e caminho crítico de um conjunto de atividades modelado como um grafo PERT
+
+
+
 ![grafo](https://github.com/nojirilucas/PERT/assets/103136574/65425c6b-a626-4956-87bd-2b20fe7da9df)
 
 Tempo mais cedo:
